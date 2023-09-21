@@ -23,5 +23,5 @@
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
 | 1 | code cells⚡ | [variable, assign](https://github.com/hw1025/NLP_2023)|
-| 2 | five typesofdata | [https://github.com/hw1025/NLP_2023/blob/main/2_FiveTypesofData.ipynb]
+| 2 | five typesofdata | [abcde](https://github.com/hw1025/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 | 3 |

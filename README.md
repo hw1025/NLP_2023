@@ -24,5 +24,5 @@
 |:--:|:--:|:--:|
 | 1 | code cells⚡ | [variable, assign](https://github.com/hw1025/NLP_2023)|
 | 2 | five typesofdata | [abcde](https://github.com/hw1025/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
-| 3 | ForStatement | [assign](https://github.com/hw1025/NLP_2023)|
+| 3 | ForStatement | [assign](https://github.com/hw1025/NLP_2023/blob/main/4_2_ForStatement.ipynb)|
 | 4 | tryExceptElse | [assign](https://github.com/hw1025/NLP_2023/edit/main/README.md)|
